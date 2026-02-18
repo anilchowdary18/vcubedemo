@@ -1,7 +1,7 @@
 name: Hello world
 on: 
-push :
-pull-request :
+push:
+pull-request:
   branches:
     - main
 jobs:
